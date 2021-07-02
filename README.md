@@ -1,6 +1,6 @@
 👋 Hi, I’m André,
 
-👀 I’m interested in Startup, Software Engineering as a discipline, artificial intelligence and blockchain technology.
+👀 I’m interested in Startups, Software Engineering as a discipline, artificial intelligence and blockchain technologies.
 
 🌱 I’m currently learning to become a better CTO and engineer.
 
